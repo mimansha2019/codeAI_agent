@@ -1,6 +1,6 @@
 # 🤖 AI Code Generator
 
-An interactive web app that generates code based on natural language prompts using Azure OpenAI. Built with Flask for the backend, Tailwind CSS for a clean UI, and integrated with Azure AI Foundry for powerful code generation capabilities.
+An interactive web app that generates code based on natural language prompts, debugs code and can transform code from one programming language to another using Azure OpenAI. Built with Flask for the backend, CSS for a clean UI, and integrated with Azure AI Foundry for powerful code generation capabilities.
 
 ---
 
