@@ -9,7 +9,7 @@ An interactive web app that generates code based on natural language prompts usi
 - ✨ Natural language to code conversion using Azure OpenAI
 - 🧠 AI agent model integrated via Azure AI Foundry
 - 🌐 Web-based interface built with Flask
-- 🎨 Stylish, responsive frontend with Tailwind CSS
+- 🎨 Stylish, responsive frontend with CSS
 - 🌙 Dark mode support (toggle coming soon)
 - 📄 Markdown + syntax-highlighted output display
 
