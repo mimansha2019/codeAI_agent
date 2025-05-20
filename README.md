@@ -22,24 +22,6 @@ An interactive web app that generates code based on natural language prompts usi
 
 ![image](https://github.com/user-attachments/assets/2dcd6df9-7392-4a02-8593-8331183c3f3c)
 
-
-## 📦 Project Structure
-
-ai-code-generator/
-│
-├── app.py # Flask backend
-├── .env # Azure API credentials (not tracked)
-├── requirements.txt # Python dependencies
-│
-├── templates/
-│ └── index.html # Frontend UI
-│
-├── static/
-│ ├── main.js # JS logic to fetch and display output
-│ ├── style.css # Tailwind-based custom styles
-│
-│└── README.md
-
 💡 Technologies Used
 
 -> Flask (Python)
